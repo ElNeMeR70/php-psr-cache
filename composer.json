@@ -1,0 +1,20 @@
+{
+  "name": "elnemer70/php-psr-cache",
+  "description": "PSR-6/PSR-16 cache pool implementation",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElNeMeR70\\\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud ElNemer",
+      "email": "sultanelnemer@gmail.com"
+    }
+  ]
+}
